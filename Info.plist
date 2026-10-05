@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleIdentifier</key><string>fr.m4ks.bouge</string>
+  <key>CFBundleName</key><string>Bouge</string>
+  <key>CFBundleDisplayName</key><string>Bouge</string>
+  <key>CFBundleExecutable</key><string>Bouge</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>1.0.2</string>
+  <key>CFBundleVersion</key><string>3</string>
+  <key>CFBundleIconFile</key><string>AppIcon</string>
+  <key>LSMinimumSystemVersion</key><string>13.0</string>
+  <key>LSUIElement</key><true/>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>CFBundleURLTypes</key><array><dict>
+    <key>CFBundleURLName</key><string>fr.m4ks.bouge</string>
+    <key>CFBundleURLSchemes</key><array><string>bouge</string></array>
+  </dict></array>
+</dict></plist>

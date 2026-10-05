@@ -2,11 +2,17 @@
 
 Une petite app macOS native qui rappelle de bouger sur sa chaise et de changer de position **toutes les 20 minutes**.
 
-Bouge reste dans la barre de menus et affiche une notification macOS dans un coin de l’écran. Swift + AppKit, Apple Silicon (`arm64`), macOS 13 ou plus. Gratuit, sous licence MIT, sans compte, abonnement, dépendance externe ni connexion réseau.
+Bouge reste dans la barre de menus et affiche une notification macOS dans un coin de l’écran. Swift + AppKit, Apple Silicon (`arm64`), macOS 13 ou plus. Gratuit, sous licence MIT, sans compte, abonnement, dépendance externe ni connexion réseau. Les sources utiles tiennent dans **~28 Ko**.
+
+## Pourquoi pas une app lourde
+
+Je ne vois pas pourquoi télécharger une grosse appli du Store alors qu’on peut faire la sienne en Swift en un instant. **Ne clone pas forcément Bouge.** Inspire ton agent : regarde ce qui existe, ce qu’il y a dedans, et fais la tienne. Au moins tu sauras exactement ce qui tourne sur ta machine — et ce sera light à mort.
 
 ## Compiler et installer
 
 Les outils en ligne de commande Apple suffisent ; Xcode complet n’est pas nécessaire. Si besoin, installe-les avec `xcode-select --install`.
+
+Si tu veux compiler celle-ci (optionnel — le but, c’est surtout de t’inspirer) :
 
 ```bash
 git clone https://github.com/maax6/bouge.git

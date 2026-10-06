@@ -8,7 +8,7 @@ Bouge reste dans la barre de menus et affiche une notification macOS dans un coi
 
 Je ne vois pas pourquoi télécharger une grosse appli du Store alors qu’on peut faire la sienne en Swift en un instant. **Ne clone pas forcément Bouge.** Inspire ton agent : regarde ce qui existe, ce qu’il y a dedans, et fais la tienne. Au moins tu sauras exactement ce qui tourne sur ta machine — et ce sera light à mort.
 
-https://github.com/user-attachments/assets/6ffe67e4-4716-469c-89a9-e9d5cfd83cec
+https://github.com/user-attachments/assets/ff3ed1a3-a40d-48e1-a1b1-59b242015f60
 
 ## Compiler et installer
 
